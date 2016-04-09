@@ -1,3 +1,5 @@
+// js/views/app.js
+
 var app = app || {};
 
 // The Application
